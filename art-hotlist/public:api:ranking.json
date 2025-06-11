@@ -1,0 +1,7 @@
+art-hotlist/
+├── pages/
+│   └── index.js
+├── public/
+│   └── api/
+│       └── ranking.json
+├── package.json （等下自动生成）
